@@ -1,22 +1,13 @@
 # PRODIGY_DS_04
 
-"""
-## Traffic Accident Analysis Report
 
-### Introduction
-In this report, we analyze traffic accident data to gain insights into road conditions, weather, and time of day affecting accident rates.
+## Project Description
 
-### Key Findings
-- Accidents are more frequent during rush hours.
-- Weather conditions like rain and snow are associated with higher accident rates.
-- Certain road conditions are correlated with accident severity.
+Twitter Sentiment Analysis is a Python-based project that analyzes sentiments expressed in tweets related to specific topics or brands on Twitter. This project uses natural language processing (NLP) techniques to classify tweets as positive, negative, or neutral and provides insights into public opinions and attitudes.
 
-### Recommendations
-- Implement traffic management strategies during peak hours.
-- Promote safe driving practices in adverse weather conditions.
-- Prioritize road maintenance in high-accident severity areas.
+## Features
 
-### Conclusion
-This analysis provides valuable insights for improving road safety and accident prevention.
+- Collects and preprocesses Twitter data using Tweepy and TextBlob.
+- Performs sentiment analysis to categorize tweets as positive, negative, or neutral.
+- Visualizes sentiment patterns using word clouds, bar charts, and pie charts.
 
-"""
